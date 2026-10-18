@@ -1,0 +1,6 @@
+node_modules/
+.env
+clinic-custom.sqlite
+clinic-custom.sqlite-shm
+clinic-custom.sqlite-wal
+*.log
